@@ -53,7 +53,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onOpenPopup }) => {
         </div>
         
         <div className="text-xl md:text-2xl mb-12 opacity-90 animate-fade-in-up" style={{ animationDelay: '1s' }}>
-          August 4th, 2024 ✨
+          August 4th, 2025 ✨
         </div>
         
         <div className="flex justify-center space-x-4 mb-8">
