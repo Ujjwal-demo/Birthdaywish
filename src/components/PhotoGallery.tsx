@@ -24,7 +24,7 @@ const PhotoGallery: React.FC = () => {
 
       <div className="container mx-auto px-4 relative z-10">
         <h2 className="text-5xl font-bold text-center mb-16 bg-gradient-to-r from-yellow-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
-          Our Cosmic Journey Together
+          Our Beautiful Journey Together
         </h2>
         
         <div className="flex flex-col lg:flex-row gap-12 justify-center items-center">
@@ -122,7 +122,7 @@ const PhotoGallery: React.FC = () => {
                 
                 <div className="text-center text-white z-10">
                   <img 
-                    src="https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                    src="https://cdn.corenexis.com/file?5688326168.jpg" 
                     alt="Romantic sunset couple"
                     className="w-full h-full object-cover rounded-lg"
                   />
