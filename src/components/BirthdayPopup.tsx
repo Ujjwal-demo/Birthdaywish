@@ -82,7 +82,7 @@ const BirthdayPopup: React.FC<BirthdayPopupProps> = ({ isOpen, onClose }) => {
             onClick={onClose}
             className="bg-gradient-to-r from-yellow-400 to-purple-500 text-white px-6 py-2 rounded-full font-semibold hover:from-yellow-500 hover:to-purple-600 transition-all transform hover:scale-105"
           >
-            Thank You! ✨
+            I too love you ✨
           </button>
         </div>
       </div>
