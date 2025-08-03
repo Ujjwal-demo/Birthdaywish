@@ -48,7 +48,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onOpenPopup }) => {
         
         <div className="text-2xl md:text-4xl mb-8 animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
           <span className="bg-gradient-to-r from-yellow-400 via-purple-400 to-blue-400 bg-clip-text text-transparent font-semibold">
-            My Celestial Queen
+            My Drama Queen
           </span>
         </div>
         
@@ -72,7 +72,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onOpenPopup }) => {
           className="bg-gradient-to-r from-yellow-400 via-purple-500 to-blue-500 text-white px-8 py-4 rounded-full text-lg font-semibold hover:from-yellow-500 hover:via-purple-600 hover:to-blue-600 transform hover:scale-105 transition-all duration-300 shadow-lg animate-bounce-in border border-yellow-400/50"
           style={{ animationDelay: '1.5s' }}
         >
-          ✨ Open Your Cosmic Surprise! ✨
+          ✨ Open me ✨
         </button>
       </div>
     </div>
