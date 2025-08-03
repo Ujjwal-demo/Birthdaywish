@@ -37,7 +37,7 @@ function App() {
           Made with ✨ for the most radiant star in my universe
         </p>
         <p className="text-sm opacity-80 mt-2">
-          Happy Birthday, August 4th! You deserve all the magic and wonder! 🌟
+          Happy Birthday, Baby . I love you always 🌟
         </p>
       </footer>
       
