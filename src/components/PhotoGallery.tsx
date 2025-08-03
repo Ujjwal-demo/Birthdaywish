@@ -52,7 +52,7 @@ const PhotoGallery: React.FC = () => {
                 
                 <div className="text-center text-white z-10">
                   <img 
-                    src="https://cdn.corenexis.com/file?6762865168.jpg" 
+                    src="https://ibb.co/xtMTFmb6" 
                     alt="Romantic couple under stars"
                     className="w-full h-full object-cover rounded-lg"
                   />
