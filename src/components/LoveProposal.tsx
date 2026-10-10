@@ -5,7 +5,7 @@ const LoveProposal: React.FC = () => {
   const [displayedText, setDisplayedText] = useState('');
   const [currentIndex, setCurrentIndex] = useState(0);
   
-  const message = "My Celestial Queen, you are the brightest star in my universe, the moon that guides my nights, and the constellation that makes my world complete. Will you continue to shine with me forever? ✨";
+  const message = "My Jenny, you’re the brightest star in my universe and the sunshine in my darkest days. Will you stay my best friend and shine in my life forever? ✨";
 
   useEffect(() => {
     if (currentIndex < message.length) {
@@ -47,7 +47,7 @@ const LoveProposal: React.FC = () => {
             </div>
           </div>
           <h2 className="text-5xl font-bold text-white mb-8 animate-fade-in">
-            For My Celestial Queen
+            For My drama Queen
           </h2>
         </div>
         
