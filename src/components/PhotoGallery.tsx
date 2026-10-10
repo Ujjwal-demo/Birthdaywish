@@ -186,7 +186,7 @@ const PhotoGallery: React.FC = () => {
               </div>
             ))}
           </div>
-          <p className="text-white mt-4 text-lg font-medium">Our Love Written in the Stars</p>
+          <p className="text-white mt-4 text-lg font-medium">Our fiendship Written in the Stars</p>
         </div>
       </div>
     </div>
