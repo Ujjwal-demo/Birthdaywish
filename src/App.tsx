@@ -34,10 +34,10 @@ function App() {
       
       <footer className="bg-gradient-to-r from-black via-indigo-900 to-purple-900 text-white py-8 text-center border-t border-yellow-400/30">
         <p className="text-lg font-semibold">
-          Made for my beautiful girl with lots of love
+          Made for my beautiful friend with lots of love
         </p>
         <p className="text-sm opacity-80 mt-2">
-          Happy Birthday, Baby . I love you always 🌟
+          Happy Birthday, jenny . I love you always 🌟
         </p>
       </footer>
       
