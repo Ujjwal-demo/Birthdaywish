@@ -48,12 +48,12 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onOpenPopup }) => {
         
         <div className="text-2xl md:text-4xl mb-8 animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
           <span className="bg-gradient-to-r from-yellow-400 via-purple-400 to-blue-400 bg-clip-text text-transparent font-semibold">
-            My Drama Queen
+            Jenny
           </span>
         </div>
         
         <div className="text-xl md:text-2xl mb-12 opacity-90 animate-fade-in-up" style={{ animationDelay: '1s' }}>
-          August 4th, 2025 ✨
+          October 11th, 2026 ✨
         </div>
         
         <div className="flex justify-center space-x-4 mb-8">
