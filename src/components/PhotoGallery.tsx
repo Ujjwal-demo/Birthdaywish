@@ -1,4 +1,4 @@
-/*
+
 import React, { useState } from 'react';
 import { Star, Sparkles, Moon, Heart } from 'lucide-react';
 
@@ -194,4 +194,3 @@ const PhotoGallery: React.FC = () => {
 };
 
 export default PhotoGallery;
-*/
