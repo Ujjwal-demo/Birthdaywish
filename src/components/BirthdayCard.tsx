@@ -32,11 +32,11 @@ const BirthdayCard: React.FC = () => {
           <div className="absolute inset-0 w-full h-full backface-hidden rotate-y-180 rounded-2xl bg-gradient-to-br from-purple-900 via-indigo-900 to-black shadow-2xl border border-yellow-400/30">
             <div className="flex flex-col items-center justify-center h-full text-white p-6">
               <Star size={48} className="text-yellow-400 animate-pulse mb-4" />
-              <h3 className="text-xl font-bold mb-4">To My Beautiful Star</h3>
+              <h3 className="text-xl font-bold mb-4">To My Beautiful special friend</h3>
               <p className="text-center text-sm leading-relaxed">
-                On this special day, August 4th, I want you to know how much you mean to me. 
+                On this special day, Oct 11th, I want you to know how much you mean to me. 
                 You light up my universe like the brightest constellation and make every night magical. 
-                Happy Birthday, my celestial queen ✨
+                Happy Birthday, my jenny ✨
               </p>
               <div className="mt-4 flex space-x-2">
                 <Star size={16} className="text-yellow-400 animate-ping" />
